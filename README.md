@@ -1,6 +1,6 @@
 ### Olá, Eu sou o [Lucas](https://www.linkedin.com/in/lucascrypt)  👋
 
-Um entusiata de JavaScript e PHP, formado em Análise e Desenvolvimento de Sistemas.
+Um entusiata de JavaScript, formado em Análise e Desenvolvimento de Sistemas.
 
 - 🔭 Atualmente em busca de um espaço no mercado de trabalho
 - 🌱 Atualmente estudando NodeJS e React
