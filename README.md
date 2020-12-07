@@ -12,7 +12,8 @@ Um fullStack entusiata de JavaScript, formado em Análise e Desenvolvimento de S
 <br>
 </br>
 
-![Lucascrypt github stats](https://github-readme-stats.vercel.app/api?username=lucascrypt&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascrypt&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center">
+![Lucascrypt github stats](https://github-readme-stats.vercel.app/api?username=lucascrypt&show_icons=true&theme=dracula)
+</img>
 <br>
 
