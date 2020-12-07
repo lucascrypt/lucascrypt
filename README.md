@@ -15,7 +15,9 @@ Um fullStack entusiata de JavaScript, formado em Análise e Desenvolvimento de S
 
 ![Lucascrypt github stats](https://github-readme-stats.vercel.app/api?username=lucascrypt&show_icons=true&theme=dracula)
 <a href="https://github.com/lucascrypt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucascrypt&repo=github-lucascrypt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucascrypt&repo=github-readme-stats" />
 </a>
-
+<a href="https://github.com/lucascrypt/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucascrypt&repo=convoychat" />
+</a>
 
