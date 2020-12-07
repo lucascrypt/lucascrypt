@@ -4,7 +4,7 @@
 
  I am a JavaScript enthusiast and my stack is based entirely on it.
 
-- 🔭 Looking for a job
+- 🔭 On the market for a job
 - 🌱 Currently taking part in a boot camp at [Digital Innovation One](https://web.digitalinnovation.one/) <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" height = 25 align="center"/>
 
 #### Linguagens e Ferramentas
