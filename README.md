@@ -1,4 +1,6 @@
 ### Olá, Eu sou o [Lucas](https://www.linkedin.com/in/lucascrypt)  👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucascrypt)](https://github.com/lucascrypt)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascrypt//)](https://www.linkedin.com/in/lucascrypt/)
 
 Um fullStack entusiata de JavaScript, formado em Análise e Desenvolvimento de Sistemas.
 
