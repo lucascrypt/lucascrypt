@@ -15,7 +15,7 @@ Um fullStack entusiata de JavaScript, formado em Análise e Desenvolvimento de S
 
 
 
-<a href="https://github.com/lucascrypt/github-readme-stats">
+<a href="https://github.com/lucascrypt/lucascrypt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucascrypt&repo=github-readme-stats" />
 </a>
  
