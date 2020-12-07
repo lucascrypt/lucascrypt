@@ -20,6 +20,6 @@ Um fullStack entusiata de JavaScript, formado em Análise e Desenvolvimento de S
  </br>
  
 
--[Read this page in English](https://github.com/lucascrypt/lucascrypt/blob/main/README-en.md) 
+ ⇨ [Read this page in English](https://github.com/lucascrypt/lucascrypt/blob/main/README-en.md) 
 
 
