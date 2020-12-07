@@ -6,8 +6,7 @@ Um entusiata de JavaScript, formado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estudando NodeJS e React
 
 #### Linguagens e Ferramentas
- <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  height = 30 align="center"/> 
-<img src="https://img2.gratispng.com/20180921/kvs/kisspng-php-image-magic-quotes-emblem-logo-php-vector-1-free-php-graphics-download-5ba4b4319ad475.2145990715375206896342.jpg" height = 30 align="center"/> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"  height = 30 align="center"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height = 30 align="center"/>
+ <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height = 30 align="center"/> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"  height = 30 align="center"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height = 30 align="center"/>
 <br>
 </br>
 
