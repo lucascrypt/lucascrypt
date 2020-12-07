@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucascrypt)](https://github.com/anuraghazra/github-readme-stats)
+![Lucascrypt Status](https://github-readme-stats.vercel.app/api?username=lucascrypt&show_icons=true)tats)
 
 Here are some ideas to get you started:
 
