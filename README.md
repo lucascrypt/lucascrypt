@@ -6,7 +6,7 @@ Um entusiata de JavaScript, formado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estudando NodeJS e React
 
 #### Linguagens e Ferramentas
- <img  src="https://img2.gratispng.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg" style="max-width:100%" height = 30 align="center"/> <img  src="https://img2.gratispng.com/20180512/stw/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg" style="max-width:100%" height = 30 align="center"/> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"  height = 30 align="center"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height = 30 align="center"/>
+ <img  src="https://www.pngfind.com/pngs/m/39-397580_logo-javascript-pattern-copyright-framework-free-download-js.png"  height = 30 align="center"/> <img  src="https://www.pinpng.com/pngs/m/133-1334709_more-free-bootstrap-png-images-bootstrap-logo-vector.png" style="max-width:100%" height = 30 align="center"/> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"  height = 30 align="center"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height = 30 align="center"/>
 <br>
 </br>
 
