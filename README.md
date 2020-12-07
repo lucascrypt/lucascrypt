@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Eu sou o <a href="https://www.linkedin.com/in/lucascrypt/'>Lucas</a> 👋
 
 ![Lucascrypt Status](https://github-readme-stats.vercel.app/api?username=lucascrypt&show_icons=true)tats)
 
